@@ -2,7 +2,7 @@
 
 **Instructor**: PSIA Level 1
 **School**: Ullr/POC Snowsports @ Summit Snoqualmie
-**Season**: 2024-2025
+**Season**: 2026
 
 ---
 
