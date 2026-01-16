@@ -199,6 +199,29 @@ When CoM is properly positioned over BoS:
 
 ---
 
+## Dry Land Workout
+
+This week focuses on balance and ankle mobility - essential for CoM/BoS control!
+
+**1. Single Leg Balance with Eyes Closed** (20 seconds each leg)
+- Stand on one foot, close your eyes
+- Notice how much harder it is without visual reference
+- *Why it helps*: Develops proprioception - feeling where your body is in space
+
+**2. Ankle Circles** (10 circles each direction, each foot)
+- Lift one foot, rotate ankle slowly in circles
+- Do both clockwise and counter-clockwise
+- *Why it helps*: Ankle mobility is key to fore-aft balance adjustments
+
+**3. Squats with Shin Lean** (10 reps x 3 sets)
+- Regular squat, but focus on pressing shins forward
+- Feel pressure on front of ankle (like pressing into ski boot tongue)
+- *Why it helps*: Mimics the athletic ski stance with forward shin pressure
+
+📹 [Simple Ski Prep - Single Leg Balance](https://www.youtube.com/watch?v=eyz2Kv0dLm0) - Balance fundamentals
+
+---
+
 ## End of Week 2 Checklist
 
 - [ ] Students understand CoM/BoS relationship

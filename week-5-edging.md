@@ -278,6 +278,29 @@ This is a **PSIA Level 1 required task**:
 
 ---
 
+## Dry Land Workout
+
+This week builds lateral stability - essential for strong edge control!
+
+**1. Side Plank** (20 seconds each side x 2 sets)
+- Lie on side, prop up on forearm, lift hips off ground
+- Keep body in straight line from head to feet
+- *Why it helps*: Lateral core strength supports angulation movements
+
+**2. Lateral Hops** (10 hops each direction)
+- Stand on one foot, hop sideways to land on the other foot
+- Stick each landing with control before hopping back
+- *Why it helps*: Builds lateral power and stability for edge-to-edge transitions
+
+**3. Calf Raises** (15 reps x 3 sets)
+- Stand on edge of step, rise up on toes, lower heels below step level
+- Control the movement both up and down
+- *Why it helps*: Strong calves support ankle movements for edge control
+
+📹 [Best Exercises for Skiers](https://www.youtube.com/watch?v=_RVgv9tpfpg) - Lateral strength exercises
+
+---
+
 ## End of Week 5 Checklist
 
 - [ ] Students understand edge angle concept

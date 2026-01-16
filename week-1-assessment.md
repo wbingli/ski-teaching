@@ -147,6 +147,29 @@ Suggested focus for season:
 
 ---
 
+## Dry Land Workout
+
+Build ski fitness at home with these exercises. Strong legs and good balance make learning easier!
+
+**1. Wall Sits** (30 seconds x 3 sets)
+- Lean back against wall, slide down until thighs parallel to floor
+- Keep knees over ankles, back flat against wall
+- *Why it helps*: Builds quad endurance for the sustained leg burn of skiing
+
+**2. Bodyweight Squats** (10 reps x 3 sets)
+- Feet shoulder-width apart, lower until thighs parallel
+- Keep weight on heels, chest up
+- *Why it helps*: Foundational leg strength for skiing's athletic stance
+
+**3. Single Leg Balance** (30 seconds each leg)
+- Stand on one foot, other foot slightly off ground
+- Try with eyes open first, then challenge yourself with eyes closed
+- *Why it helps*: Skiing requires constant balance adjustments
+
+📹 [Best Exercises for Skiers](https://www.youtube.com/watch?v=_RVgv9tpfpg) - Great foundation routine
+
+---
+
 ## End of Week 1 Checklist
 
 - [ ] All students' names learned

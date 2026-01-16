@@ -249,11 +249,37 @@ Topics to cover:
 - 📹 [Effective Skiing](https://www.effectiveskiing.com) - Detailed drill descriptions with videos
 - Record yourself, review later
 
-### Fitness for Skiing
-- Leg strength (squats, lunges)
-- Core stability (planks, rotational exercises)
-- Flexibility (hips, ankles especially)
-- Balance practice (single leg stands)
+### Fitness for Skiing - Season Maintenance Routine
+
+Build this weekly routine from exercises learned throughout the season:
+
+**Leg Strength (2-3x per week)**
+- Wall Sits (30 sec x 3)
+- Bodyweight Squats (10 x 3)
+- Single Leg Mini-Squats (8 each x 3)
+- Lateral Lunges (10 each x 2)
+- Jump Squats (8 x 3)
+
+**Core Stability (2-3x per week)**
+- Plank Hold (30 sec x 3)
+- Side Plank (20 sec each x 2)
+- Bird-Dogs (8 each x 2)
+
+**Balance & Mobility (Daily)**
+- Single Leg Balance (30 sec each)
+- Ankle Circles (10 each direction)
+- Standing Hip Circles (10 each direction)
+
+**Flexibility (After workouts)**
+- Hip flexor stretch (30 sec each)
+- Quad stretch (30 sec each)
+- Calf stretch (30 sec each)
+
+**Video Resources for Home Workouts**
+- 📹 [The only Ski Fitness Exercises you'll need](https://www.youtube.com/watch?v=aXK2vtM0i_0) - Comprehensive routine (543K views)
+- 📹 [Strength Training for Skiers (ACL Prevention)](https://www.youtube.com/watch?v=a8sf5k3fH9I) - Injury prevention focus (116K views)
+- 📹 [Simple Ski Prep - Single Leg Balance](https://www.youtube.com/watch?v=eyz2Kv0dLm0) - Balance fundamentals (115K views)
+- 📹 [Best Exercises for Skiers](https://www.youtube.com/watch?v=_RVgv9tpfpg) - Quick effective exercises (104K views)
 
 ### Further Instruction
 - Private lessons for focused improvement

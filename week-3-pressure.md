@@ -239,6 +239,29 @@ When pressure is directed toward the outside ski:
 
 ---
 
+## Dry Land Workout
+
+This week builds single leg strength - critical for outside ski pressure!
+
+**1. Single Leg Mini-Squats** (8 reps each leg x 3 sets)
+- Stand on one leg, lower down a few inches and back up
+- Keep knee tracking over toes, don't let it cave inward
+- *Why it helps*: Mimics the single-leg loading of the outside ski
+
+**2. Lateral Lunges** (10 each side x 2 sets)
+- Step wide to the side, bend that knee while keeping other leg straight
+- Push back to center
+- *Why it helps*: Strengthens legs for the lateral movements in skiing
+
+**3. Step-Ups** (10 each leg x 2 sets)
+- Use stairs or a sturdy step
+- Step up driving through the heel, step back down with control
+- *Why it helps*: Builds the leg power needed for weight transfer
+
+📹 [Strength Training for Skiers (ACL Prevention)](https://www.youtube.com/watch?v=a8sf5k3fH9I) - Single leg strength focus
+
+---
+
 ## End of Week 3 Checklist
 
 - [ ] Students understand why outside ski matters

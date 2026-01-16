@@ -250,6 +250,29 @@ We want:
 
 ---
 
+## Dry Land Workout
+
+This week targets core stability - the foundation for upper/lower body separation!
+
+**1. Plank Hold** (30 seconds x 3 sets)
+- Forearms and toes on ground, body in straight line
+- Keep core tight, don't let hips sag or pike up
+- *Why it helps*: Core stability allows upper body to stay quiet while legs work
+
+**2. Standing Hip Circles** (10 circles each direction)
+- Stand on one leg, make circles with the other leg's knee
+- Keep upper body still while hips rotate
+- *Why it helps*: Develops hip mobility and separation from upper body
+
+**3. Bird-Dogs** (8 each side x 2 sets)
+- On hands and knees, extend opposite arm and leg
+- Keep core stable, don't let hips rotate
+- *Why it helps*: Trains core to resist rotation - key for quiet upper body skiing
+
+📹 [The only Ski Fitness Exercises you'll need](https://www.youtube.com/watch?v=aXK2vtM0i_0) - Core and stability focus
+
+---
+
 ## End of Week 4 Checklist
 
 - [ ] Students understand legs vs. body rotation

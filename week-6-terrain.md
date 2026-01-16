@@ -242,6 +242,29 @@ Compare to Week 1:
 
 ---
 
+## Dry Land Workout
+
+This week combines power and endurance - preparing for full mountain skiing!
+
+**1. Jump Squats** (8 reps x 3 sets)
+- Regular squat, then explode up into a jump
+- Land softly with bent knees, immediately go into next squat
+- *Why it helps*: Builds explosive power for dynamic skiing and terrain absorption
+
+**2. Single Leg Balance on Pillow/Cushion** (30 seconds each leg)
+- Stand on one foot on an unstable surface (pillow, cushion, folded towel)
+- Try to maintain balance without putting other foot down
+- *Why it helps*: Mimics the balance challenges of variable terrain and snow conditions
+
+**3. Wall Sit with Weight Shifts** (45 seconds x 2 sets)
+- Hold wall sit position, shift weight slowly from left to right
+- Feel pressure change in each leg as you shift
+- *Why it helps*: Combines quad endurance with weight transfer practice
+
+📹 [Strength Training for Skiers (ACL Prevention)](https://www.youtube.com/watch?v=a8sf5k3fH9I) - Power and stability
+
+---
+
 ## End of Week 6 Checklist
 
 - [ ] Group A: All blue terrain comfortable
