@@ -65,21 +65,21 @@ When edge angles are controlled properly:
 
 ### Drills & Activities
 
-**1. Side Slip to Edge Set (15 min)**
+**1. Side Slip to Edge Set**
 - From traverse position, flatten skis to slip sideways
 - Increase edge angle to stop slipping
 - Repeat: slip - set - slip - set
 - **Purpose**: Feel edge angle control
 - 📹 [Sideslip Basics](https://www.youtube.com/watch?v=yIaG__iHHFw) - Snow Valley Resort
 
-**2. Linked Forward Sideslip (15 min)**
+**2. Linked Forward Sideslip**
 - Traverse, slip sideways, edge to traverse again
 - Alternate directions down the hill
 - Maintain parallel relationship
 - **Purpose**: Dynamic edge control while moving
 - 📹 [Forward Sideslip - Effective Skiing](https://www.effectiveskiing.com/Drill/Linked_forward_sideslip)
 
-**3. J-Turns / Carved Arcs (15 min)**
+**3. J-Turns / Carved Arcs**
 - Start from traverse, roll onto edges
 - Let skis carve an arc without steering
 - Just edging, no rotary
@@ -87,13 +87,13 @@ When edge angles are controlled properly:
 - 📹 [How to Carve on Skis](https://www.youtube.com/watch?v=LrmCNarCzIY) - Stomp It Tutorials
 - 📹 [J-Turns](https://www.effectiveskiing.com/Drill/J_turns) - Effective Skiing
 
-**4. Railroad Tracks (10 min)**
+**4. Railroad Tracks**
 - Make turns trying to leave two clean lines in snow
 - Tail should follow tip (no skidding)
 - **Purpose**: Visual feedback on carve quality
 - 📹 [How to Carve on Skis](https://www.youtube.com/watch?v=LrmCNarCzIY) - Stomp It Tutorials (covers railroad tracks)
 
-**5. Angulation Focus (5 min)**
+**5. Angulation Focus**
 - While traversing, push hips into the hill
 - Keep shoulders level with horizon
 - Feel the edge bite increase
@@ -140,35 +140,35 @@ When edge angles are controlled properly:
 
 ### Drills & Activities
 
-**1. Edge Awareness Standing (10 min)**
+**1. Edge Awareness Standing**
 - Stand across hill on flat terrain
 - Roll ankles to feel edges engage
 - Feel difference between uphill and downhill edges
 - **Purpose**: Basic edge feel without speed
 - 📹 [How to Carve on Skis](https://www.youtube.com/watch?v=LrmCNarCzIY) - Stomp It Tutorials (covers edge awareness)
 
-**2. Traverse Practice (15 min)**
+**2. Traverse Practice**
 - Ski across the hill (not down)
 - Focus on feeling uphill edges grip
 - If slipping, increase edge angle
 - **Purpose**: Edge engagement while moving
 - 📹 [Sideslip Basics](https://www.youtube.com/watch?v=yIaG__iHHFw) - Snow Valley Resort (includes traverse)
 
-**3. Sideslip Intro (15 min)**
+**3. Sideslip Intro**
 - Gentle slope, skis across fall line
 - Flatten edges to slip sideways
 - Edge to stop
 - **Purpose**: First sideslip experience
 - 📹 [Sideslip Basics](https://www.youtube.com/watch?v=yIaG__iHHFw) - Snow Valley Resort
 
-**4. Tipping Turns (15 min)**
+**4. Tipping Turns**
 - Instead of just steering, think about tipping skis
 - "Tip the skis on edge" as you turn
 - Feel how edged skis want to arc
 - **Purpose**: Introduce carving concept
 - 📹 [How to Carve on Skis](https://www.youtube.com/watch?v=LrmCNarCzIY) - Stomp It Tutorials
 
-**5. Edge Change Awareness (5 min)**
+**5. Edge Change Awareness**
 - Notice how edges switch between turns
 - Old inside edge becomes new outside edge
 - **Purpose**: Cognitive awareness of edge change

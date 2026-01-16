@@ -49,34 +49,34 @@ When rotary is controlled properly:
 
 ### Drills & Activities
 
-**1. Pivot Slips (15 min)**
+**1. Pivot Slips**
 - From a standstill, pivot skis 180° left, then right
 - Keep upper body facing downhill
 - Use pure leg rotation
 - **Purpose**: Isolates rotary movement without sliding
 - 📹 [Pivot Slips](https://www.youtube.com/watch?v=k1UaOzz5BRQ) - Tom Gellie / Big Picture Skiing
 
-**2. Pole Drag - Tips in Snow (15 min)**
+**2. Pole Drag - Tips in Snow**
 - Drag both pole tips in the snow
 - Poles stay pointed downhill as you turn
 - Forces upper body to stay quiet
 - **Purpose**: Prevents upper body rotation
 - 📹 [Dragging Your Poles](https://www.effectiveskiing.com/Drill/Dragging_your_poles) - Effective Skiing
 
-**3. Hands on Hips (10 min)**
+**3. Hands on Hips**
 - Place hands on hips while making turns
 - Focus on hips staying relatively level
 - Feel legs rotating underneath
 - **Purpose**: Awareness of hip/leg separation
 
-**4. Upper Body Quiet Turns (10 min)**
+**4. Upper Body Quiet Turns**
 - Hold poles horizontally across chest
 - Poles should stay pointed roughly downhill
 - Legs turn, shoulders don't
 - **Purpose**: Visual feedback on upper body stability
 - 📹 [How to Carve on Skis](https://www.youtube.com/watch?v=LrmCNarCzIY) - Stomp It Tutorials (covers upper body)
 
-**5. Bull Fighter Turns (10 min)**
+**5. Bull Fighter Turns**
 - Hold poles wide like a matador's cape
 - Keep "cape" facing downhill
 - Legs turn underneath the stable upper body
@@ -129,32 +129,32 @@ The **ski lead change** is key indicator of rotary:
 
 ### Drills & Activities
 
-**1. Clock Turns (10 min)**
+**1. Clock Turns**
 - Stand on flat ground in wedge
 - Imagine clock face on snow
 - Turn feet to point at 3 o'clock, then 9 o'clock
 - Upper body stays facing 12 o'clock
 - **Purpose**: Basic rotation concept without speed
 
-**2. Steering Wedge Turns (20 min)**
+**2. Steering Wedge Turns**
 - Focus on actively turning both feet in direction of turn
 - Not just tipping, but rotating the feet
 - "Point your toes where you want to go"
 - **Purpose**: Active steering development
 - 📹 [How to Snow Plough Turn](https://www.youtube.com/watch?v=bEBIAfZ0iW4) - SKNG Ski School
 
-**3. Follow the Leader - Copy Legs (15 min)**
+**3. Follow the Leader - Copy Legs**
 - Follow instructor, watch their legs
 - Notice how legs turn while body stays stable
 - Try to copy the movement
 - **Purpose**: Visual learning
 
-**4. "Twist Your Feet" (10 min)**
+**4. "Twist Your Feet"**
 - On each turn, think about twisting feet in the boot
 - Like wringing out a towel
 - **Purpose**: Internal rotation cue
 
-**5. Look Down the Hill (5 min)**
+**5. Look Down the Hill**
 - Focus eyes on something down the hill
 - Keep looking at it while making turns
 - **Purpose**: Promotes upper body stability

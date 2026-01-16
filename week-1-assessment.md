@@ -23,17 +23,17 @@
 
 ### Skill Check Activities
 
-**1. Linked Parallel Turns (10 min)**
+**1. Linked Parallel Turns**
 - Short, medium, and long radius
 - Watch for: turn shape, rhythm, edge engagement
 - 📹 [How to Carve - Turn Shape](https://www.youtube.com/watch?v=LrmCNarCzIY) - Stomp It Tutorials
 
-**2. Side Slip to Edge Set (5 min)**
+**2. Side Slip to Edge Set**
 - Both directions
 - Watch for: edge control, balance over downhill ski
 - 📹 [Sideslip Basics](https://www.youtube.com/watch?v=yIaG__iHHFw) - Snow Valley Resort
 
-**3. Free Skiing on Blue Terrain (15 min)**
+**3. Free Skiing on Blue Terrain**
 - Natural skiing, no specific task
 - Watch for: adaptability, confidence, speed control
 
@@ -76,22 +76,22 @@ Suggested focus for season:
 
 ### Skill Check Activities
 
-**1. Wedge Position Check (5 min)**
+**1. Wedge Position Check**
 - Static wedge on flat ground
 - Watch for: even wedge, comfortable stance
 - 📹 [How to Snow Plough Turn](https://www.youtube.com/watch?v=bEBIAfZ0iW4) - SKNG Ski School (2.1M views)
 
-**2. Gliding Wedge (10 min)**
+**2. Gliding Wedge**
 - Straight run in wedge, control speed
 - Watch for: consistent wedge width, balance
 - 📹 [How to Snow Plough Turn](https://www.youtube.com/watch?v=bEBIAfZ0iW4) - SKNG Ski School
 
-**3. Wedge Turns (20 min)**
+**3. Wedge Turns**
 - Linked turns down Holiday
 - Watch for: both skis on snow, round turns, steering both legs
 - 📹 [How to Snow Plough Turn](https://www.youtube.com/watch?v=bEBIAfZ0iW4) - SKNG Ski School
 
-**4. Stopping (5 min)**
+**4. Stopping**
 - Can they stop when they want to?
 - Watch for: controlled stop vs panic stop
 - 📹 [How to Snow Plough Turn](https://www.youtube.com/watch?v=bEBIAfZ0iW4) - SKNG Ski School (includes stopping)

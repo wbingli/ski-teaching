@@ -47,29 +47,29 @@ When CoM is properly positioned over BoS:
 
 ### Drills & Activities
 
-**1. Shuffle Turns (15 min)**
+**1. Shuffle Turns**
 - While making turns, shuffle feet fore and aft
 - Exaggerate forward, then back, find center
 - **Purpose**: Feel the range of balance, find optimal position
 - 📹 [How to Carve - Balance Tips](https://www.youtube.com/watch?v=LrmCNarCzIY) - Stomp It Tutorials
 
-**2. Hands on Knees (10 min)**
+**2. Hands on Knees**
 - Ski with hands resting on knees
 - Forces forward stance and ankle flex
 - **Purpose**: Encourages proper athletic position
 
-**3. 1000 Steps (15 min)**
+**3. 1000 Steps**
 - Make turns while stepping skis rapidly
 - Quick, small steps throughout the turn
 - **Purpose**: Requires centered balance to step effectively
 - 📹 [1000 Steps Drill](https://www.youtube.com/watch?v=DgMzbkokXt4) - US Ski & Snowboard
 
-**4. Pole Drag (10 min)**
+**4. Pole Drag**
 - Drag both pole tips behind you while turning
 - **Purpose**: Prevents sitting back, promotes forward stance
 - 📹 [Dragging Your Poles](https://www.effectiveskiing.com/Drill/Dragging_your_poles) - Effective Skiing
 
-**5. Touch Boots (10 min)**
+**5. Touch Boots**
 - Reach down and touch boot tops at turn initiation
 - **Purpose**: Encourages forward movement into new turn
 
@@ -111,31 +111,31 @@ When CoM is properly positioned over BoS:
 
 ### Drills & Activities
 
-**1. Athletic Stance Check (10 min)**
+**1. Athletic Stance Check**
 - On flat ground, find balanced position
 - Ankles flexed, knees over toes, hands forward
 - "Ready position" like a tennis player or goalkeeper
 - **Purpose**: Establish baseline stance
 - 📹 [How to Snow Plough Turn](https://www.youtube.com/watch?v=bEBIAfZ0iW4) - SKNG Ski School (covers stance)
 
-**2. Straight Run Balance (15 min)**
+**2. Straight Run Balance**
 - Straight run down gentle slope
 - Focus on feeling shin pressure against boot
 - Stop in wedge
 - **Purpose**: Feel balanced position while moving
 - 📹 [How to Snow Plough Turn](https://www.youtube.com/watch?v=bEBIAfZ0iW4) - SKNG Ski School
 
-**3. Airplane Turns (15 min)**
+**3. Airplane Turns**
 - Arms out to sides like airplane wings
 - Make wedge turns
 - If falling back, arms naturally come forward
 - **Purpose**: Self-correction tool for balance
 
-**4. Touch the Knees (10 min)**
+**4. Touch the Knees**
 - While in straight run or gentle turn, briefly touch knees
 - **Purpose**: Requires forward balance to reach knees
 
-**5. One Ski Scooter (10 min)**
+**5. One Ski Scooter**
 - Remove one ski, push with that foot
 - Glide on remaining ski in balanced position
 - **Purpose**: Develops balance awareness on single ski
