@@ -242,8 +242,11 @@ Topics to cover:
 - Watch other good skiers - observe their movements
 
 ### Video Resources
-- PSIA Matrix videos
-- YouTube ski instruction channels
+- 📹 [PSIA-AASI YouTube Channel](https://www.youtube.com/@thesnowpros) - Official PSIA content
+- 📹 [Stomp It Tutorials](https://www.youtube.com/@stompittutorials) - Carving and drill tutorials (425K subscribers)
+- 📹 [SKNG Ski School](https://www.youtube.com/@skng) - Progressive beginner lessons (203K subscribers)
+- 📹 [Deb Armstrong](https://www.youtube.com/@DebArmstrongSkiStrong) - PSIA-style drill demonstrations
+- 📹 [Effective Skiing](https://www.effectiveskiing.com) - Detailed drill descriptions with videos
 - Record yourself, review later
 
 ### Fitness for Skiing

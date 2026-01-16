@@ -53,26 +53,32 @@ When pressure is directed toward the outside ski:
 - Make complete turns on outside ski only
 - Inside ski acts as outrigger for balance
 - **Purpose**: Forces 100% weight on outside ski
+- 📹 [Javelin Turns](https://www.youtube.com/watch?v=AqY3njpOnmw) - Deb Armstrong
+- 📹 [The Javelin Drill](https://www.effectiveskiing.com/Drill/The_Javelin) - Effective Skiing
 
 **2. Outside Ski Lift (10 min)**
 - During each turn, briefly lift inside ski completely
 - Just a moment of lift, then set down
 - **Purpose**: Confirms weight is on outside ski
+- 📹 [Javelin Turns](https://www.youtube.com/watch?v=AqY3njpOnmw) - Deb Armstrong (similar concept)
 
 **3. Railroad Track Turns (15 min)**
 - Focus on making two clean tracks in snow
 - Outside ski should leave deeper track
 - **Purpose**: Visual feedback on pressure distribution
+- 📹 [How to Carve on Skis](https://www.youtube.com/watch?v=LrmCNarCzIY) - Stomp It Tutorials
 
 **4. Pivot Slip to Turn (10 min)**
 - Side slip, then pivot into turn on outside ski
 - Feel pressure build on outside ski through turn
 - **Purpose**: Pressure awareness through turn phases
+- 📹 [Pivot Slips](https://www.youtube.com/watch?v=k1UaOzz5BRQ) - Tom Gellie / Big Picture Skiing
 
 **5. White Pass Turns (10 min)**
 - Leave inside ski flat on snow, lift the edge
 - All pressure and edging on outside ski
 - **Purpose**: Isolates outside ski for maximum feedback
+- 📹 [White Pass Turn](https://www.effectiveskiing.com/Drill/White_pass) - Effective Skiing
 
 ### What to Watch For
 
@@ -118,6 +124,7 @@ When pressure is directed toward the outside ski:
 - Shift weight to one foot, then the other
 - Notice which ski moves more
 - **Purpose**: Basic weight awareness
+- 📹 [How to Snow Plough Turn](https://www.youtube.com/watch?v=bEBIAfZ0iW4) - SKNG Ski School
 
 **2. Step Turns (15 min)**
 - Make turns by stepping from ski to ski
@@ -130,6 +137,8 @@ When pressure is directed toward the outside ski:
 - Shift weight to uphill ski to traverse again
 - Back and forth like a falling leaf
 - **Purpose**: Feel how weight affects direction
+- 📹 [Falling Leaf Drill](https://www.youtube.com/watch?v=CqW2AnC01kc) - Deb Armstrong
+- 📹 [Falling Leaf](https://www.effectiveskiing.com/Drill/Falling_leaf) - Effective Skiing
 
 **4. "Push the Pedal" Turns (15 min)**
 - Imagine gas pedals under each foot

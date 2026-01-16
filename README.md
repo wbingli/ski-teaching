@@ -107,3 +107,29 @@
 - PSIA Alpine Technical Manual
 - Ed Kane: "Fundamentals from a Trainer's Perspective"
 - PSIA-NW Level 1 Study Guide
+
+---
+
+## Video Resources
+
+### Official PSIA-AASI Videos
+- [PSIA-AASI YouTube Channel](https://www.youtube.com/@thesnowpros) - Official PSIA content (549 videos)
+- [PSIA Movement Matrix](https://thesnowpros.org) - Educational video content by discipline and level
+
+### Popular YouTube Channels
+- [Stomp It Tutorials](https://www.youtube.com/@stompittutorials) - Excellent carving and drill tutorials (425K subscribers)
+- [SKNG Ski School](https://www.youtube.com/@skng) - Progressive beginner lessons (203K subscribers)
+- [Deb Armstrong](https://www.youtube.com/@DebArmstrongSkiStrong) - PSIA-style drill demonstrations (85K subscribers)
+
+### Key Drill Videos (Verified Working)
+- [1000 Steps Drill](https://www.youtube.com/watch?v=DgMzbkokXt4) - US Ski & Snowboard
+- [Javelin Turns](https://www.youtube.com/watch?v=AqY3njpOnmw) - Deb Armstrong
+- [Pivot Slips](https://www.youtube.com/watch?v=k1UaOzz5BRQ) - Tom Gellie / Big Picture Skiing
+- [Falling Leaf](https://www.youtube.com/watch?v=CqW2AnC01kc) - Deb Armstrong
+- [Sideslip Basics](https://www.youtube.com/watch?v=yIaG__iHHFw) - Snow Valley Resort
+- [How to Carve](https://www.youtube.com/watch?v=LrmCNarCzIY) - Stomp It Tutorials (1.1M views)
+- [Wedge Turns for Beginners](https://www.youtube.com/watch?v=bEBIAfZ0iW4) - SKNG Ski School (2.1M views)
+
+### Technique Resources
+- [Effective Skiing](https://www.effectiveskiing.com) - Detailed drill descriptions with embedded videos
+- [Ski Magazine Instruction](https://www.skimag.com/performance/instruction/) - Professional tips and techniques

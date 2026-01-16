@@ -51,6 +51,7 @@ When CoM is properly positioned over BoS:
 - While making turns, shuffle feet fore and aft
 - Exaggerate forward, then back, find center
 - **Purpose**: Feel the range of balance, find optimal position
+- 📹 [How to Carve - Balance Tips](https://www.youtube.com/watch?v=LrmCNarCzIY) - Stomp It Tutorials
 
 **2. Hands on Knees (10 min)**
 - Ski with hands resting on knees
@@ -61,10 +62,12 @@ When CoM is properly positioned over BoS:
 - Make turns while stepping skis rapidly
 - Quick, small steps throughout the turn
 - **Purpose**: Requires centered balance to step effectively
+- 📹 [1000 Steps Drill](https://www.youtube.com/watch?v=DgMzbkokXt4) - US Ski & Snowboard
 
 **4. Pole Drag (10 min)**
 - Drag both pole tips behind you while turning
 - **Purpose**: Prevents sitting back, promotes forward stance
+- 📹 [Dragging Your Poles](https://www.effectiveskiing.com/Drill/Dragging_your_poles) - Effective Skiing
 
 **5. Touch Boots (10 min)**
 - Reach down and touch boot tops at turn initiation
@@ -113,12 +116,14 @@ When CoM is properly positioned over BoS:
 - Ankles flexed, knees over toes, hands forward
 - "Ready position" like a tennis player or goalkeeper
 - **Purpose**: Establish baseline stance
+- 📹 [How to Snow Plough Turn](https://www.youtube.com/watch?v=bEBIAfZ0iW4) - SKNG Ski School (covers stance)
 
 **2. Straight Run Balance (15 min)**
 - Straight run down gentle slope
 - Focus on feeling shin pressure against boot
 - Stop in wedge
 - **Purpose**: Feel balanced position while moving
+- 📹 [How to Snow Plough Turn](https://www.youtube.com/watch?v=bEBIAfZ0iW4) - SKNG Ski School
 
 **3. Airplane Turns (15 min)**
 - Arms out to sides like airplane wings

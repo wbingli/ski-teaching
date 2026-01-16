@@ -54,12 +54,14 @@ When rotary is controlled properly:
 - Keep upper body facing downhill
 - Use pure leg rotation
 - **Purpose**: Isolates rotary movement without sliding
+- 📹 [Pivot Slips](https://www.youtube.com/watch?v=k1UaOzz5BRQ) - Tom Gellie / Big Picture Skiing
 
 **2. Pole Drag - Tips in Snow (15 min)**
 - Drag both pole tips in the snow
 - Poles stay pointed downhill as you turn
 - Forces upper body to stay quiet
 - **Purpose**: Prevents upper body rotation
+- 📹 [Dragging Your Poles](https://www.effectiveskiing.com/Drill/Dragging_your_poles) - Effective Skiing
 
 **3. Hands on Hips (10 min)**
 - Place hands on hips while making turns
@@ -72,6 +74,7 @@ When rotary is controlled properly:
 - Poles should stay pointed roughly downhill
 - Legs turn, shoulders don't
 - **Purpose**: Visual feedback on upper body stability
+- 📹 [How to Carve on Skis](https://www.youtube.com/watch?v=LrmCNarCzIY) - Stomp It Tutorials (covers upper body)
 
 **5. Bull Fighter Turns (10 min)**
 - Hold poles wide like a matador's cape
@@ -138,6 +141,7 @@ The **ski lead change** is key indicator of rotary:
 - Not just tipping, but rotating the feet
 - "Point your toes where you want to go"
 - **Purpose**: Active steering development
+- 📹 [How to Snow Plough Turn](https://www.youtube.com/watch?v=bEBIAfZ0iW4) - SKNG Ski School
 
 **3. Follow the Leader - Copy Legs (15 min)**
 - Follow instructor, watch their legs

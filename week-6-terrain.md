@@ -63,6 +63,7 @@ Good skiing isn't about using one skill at a time - it's about blending them all
 - Transition to medium radius
 - Finish with long radius
 - **Purpose**: Demonstrate skill adaptability
+- 📹 [How to Carve on Skis](https://www.youtube.com/watch?v=LrmCNarCzIY) - Stomp It Tutorials (covers turn shapes)
 
 **2. Terrain Features (1 run)**
 - Seek out rollers, side hills, transitions
@@ -73,6 +74,7 @@ Good skiing isn't about using one skill at a time - it's about blending them all
 - Alternate faster and slower sections
 - Maintain technique at both speeds
 - **Purpose**: Speed adaptability
+- 📹 [How to Carve on Skis](https://www.youtube.com/watch?v=LrmCNarCzIY) - Stomp It Tutorials (covers speed control)
 
 ### What to Watch For
 
