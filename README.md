@@ -121,7 +121,7 @@
 - [SKNG Ski School](https://www.youtube.com/@skng) - Progressive beginner lessons (203K subscribers)
 - [Deb Armstrong](https://www.youtube.com/@DebArmstrongSkiStrong) - PSIA-style drill demonstrations (85K subscribers)
 
-### Key Drill Videos (Verified Working)
+### Key Drill Videos
 - [1000 Steps Drill](https://www.youtube.com/watch?v=DgMzbkokXt4) - US Ski & Snowboard
 - [Javelin Turns](https://www.youtube.com/watch?v=AqY3njpOnmw) - Deb Armstrong
 - [Pivot Slips](https://www.youtube.com/watch?v=k1UaOzz5BRQ) - Tom Gellie / Big Picture Skiing
